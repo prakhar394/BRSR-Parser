@@ -1,0 +1,37 @@
+,0,1,2,3,4,5,6
+0,Scope,Emission Source*,Activity Data,"FY21 
+Emissions 
+(MT CO2e)","Contribution 
+(FY21)","FY20 
+Emissions 
+(MT CO2e)","Contribution 
+(FY20)"
+1,Scope 1,"Diesel Generator 
+Sets","Diesel 
+Consumption (L)",3.5,0.1%,5.7,0.1%
+2,Scope 1,"Fuel Allowance 
+(Provided to 
+employees)",Petrol Allowance (L),720.4,18.6%,769.7,14.7%
+3,Scope 1,Company Cars,"Petrol Consumption 
+(L)",12.7,0.3%,34.1,0.7%
+4,Scope 1,"HVAC  (Heating 
+Ventilating and 
+Air conditioning 
+Systems)","Number of 
+AC Carriers & 
+Refrigerant refills 
+(kg)",229.5,5.9%,530.6,10.2%
+5,,Scope 1,,966.1,24.9%,"1,340.1",25.7%
+6,Scope 2,Purchased Electricity,"Electricity 
+Consumption 
+(kWh)","2,240.5",57.8%,"2,525.0",48.4%
+7,Scope 2,"Electricity for Data 
+Centres","Electricity 
+Consumption 
+(kWh)",443.6,11.4%,339.6,6.5%
+8,,Scope 2,,"2,684.1",69.2%,"2,864.6",54.9%
+9,Scope 3,Business Travel – Air,"Class, Sector & 
+Passenger (km)",0.2,0.0%,271.6,5.2%
+10,Scope 3,"Business Travel – 
+Road","Sector Travel & Car 
+Type (km)",4.5,0.1%,20.1,0.4%
